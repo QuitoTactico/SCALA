@@ -5,3 +5,5 @@
 */target
 */project
 **/.scala-build
+*.class
+*.tasty
