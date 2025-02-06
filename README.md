@@ -6,10 +6,11 @@
 
 - First, download c++ redistributable if you haven't yet, both X64 and X86: <https://learn.microsoft.com/es-es/cpp/windows/latest-supported-vc-redist?view=msvc-170>
 - And Scala from here: <https://www.scala-lang.org/download/>
-- Add java to your PATH
-  - Just add "C:\Program Files\Java\jdk-23\bin"
+- Download java and add it to your PATH
+  - Download JDK from here: <https://www.oracle.com/java/technologies/downloads/>
+  - Just add `C:\Program Files\Java\jdk-<version>\bin` to PATH
 - Restart PC
-- Run `java -version` and `scala -version`
+- Run `java -version` and `scala -version` to test the installings.
 
 ### SBT
 
